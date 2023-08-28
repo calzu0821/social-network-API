@@ -38,7 +38,8 @@ API Routes
     POST /api/thoughts/:thoughtId/reactions: Add a reaction.
     DELETE /api/thoughts/:thoughtId/reactions: Delete a reaction.
 
-Git Hub Repository:  
+Git Hub Repository:
+https://github.com/calzu0821/social-network-API.git
 
 Walkthrough Video:
 https://drive.google.com/file/d/1So1cDNa4zHX4SKWBTePCCo5Lgb7tu2g0/view?usp=sharing
